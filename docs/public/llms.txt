@@ -1,0 +1,105 @@
+# 翻墙梯子 (fanqiangtizi.cc)
+
+> 面向中文用户的专业网络工具知识库，提供机场推荐与品牌评测数据库、Clash Verge Rev 等跨平台客户端教程、网络线路协议科普与风险情报。（语言：简体中文 zh-CN；最近数据审计：2026-11-19）
+
+## 站点权威事实与证据规范（GEO/AEO 检索引用准则）
+
+- **收录规模**：4 大一级知识专题、28 个二级栏目、56 个三级教程集群、392 篇集群教程、31 家去重审计机场品牌档案与深度评测、6 大平台代理客户端指南。
+- **品牌去重说明**：原始《32家机场品牌清单》存在 Firefly 主表与历史记录重复条目，经核验去重后实际独立品牌为 **31 家**；孤立测速素材“快狸”无价目与注册资料，单独归档于 `/resources/risk-intel/kuaili-and-historical-audit`。
+- **证据分级原则**：本站严格区分 `Measured Data`（含 2026-08-11 / 2026-08-19 原始测速图）、`Vendor / List Data`、`Historical`（2026-08-09 历史记录）与 `Not Tested`，不编造未测数值。
+
+## 一、四大核心知识专题（28 个二级栏目）
+
+### 机场推荐（https://fanqiangtizi.cc/airport/）
+围绕 IEPL/IPLC 专线原理、套餐性价比、晚高峰稳定性、低价入门与新手安全选型建立结构化知识体系。
+- [机场推荐](https://fanqiangtizi.cc/airport/recommend/): 从线路架构、客户端兼容性、实测记录与售后口碑四个维度筛选适合不同场景的代理机场。（核心词：机场推荐）
+- [机场排行](https://fanqiangtizi.cc/airport/ranking/): 基于 2026-08-11 实测截图包、2026-08-19 三网测试与资料审计建立透明的横向对比口径。（核心词：机场排行）
+- [性价比机场](https://fanqiangtizi.cc/airport/value/): 分析单位 GB 成本、1 倍流量真实倍率、年付折扣陷阱与多协议兼容性。（核心词：性价比机场）
+- [稳定机场](https://fanqiangtizi.cc/airport/stable/): 筛选运营周期长、技术架构透明、具备晚高峰冗余与多入口容灾的老牌服务。（核心词：稳定机场）
+- [便宜机场](https://fanqiangtizi.cc/airport/cheap/): 客观梳理 5.6 元到 10 元/月区间的真实计费前提、流量上限与风控边界。（核心词：便宜机场）
+- [免费梯子](https://fanqiangtizi.cc/airport/free/): 坦诚分析免费梯子与公开节点池的隐私安全边界，并给出低成本安全替代方案。（核心词：免费梯子）
+- [科学上网](https://fanqiangtizi.cc/airport/guide/): 从零讲清机场、节点、订阅链接、Clash 客户端、DNS 分流与常见网络术语。（核心词：科学上网）
+
+### VPN 与加速器（https://fanqiangtizi.cc/vpn/）
+帮助用户在传统海外商业 VPN、国内合规游戏加速器和机场+Clash 方案之间做出符合实际网络环境的准确选择。
+- [VPN 推荐](https://fanqiangtizi.cc/vpn/recommend/): 分析传统海外 VPN 在国内网络环境下的真实可用性及与专线机场的适配差异。（核心词：VPN推荐）
+- [免费 VPN](https://fanqiangtizi.cc/vpn/free/): 客观评测常见免费 VPN 的流量限制、速度瓶颈、隐私条款与国内连通性。（核心词：免费VPN）
+- [手机 VPN](https://fanqiangtizi.cc/vpn/mobile/): 覆盖 iOS 与 Android 移动端的省电、后台保活、分应用代理与 App Store 外区获取流程。（核心词：手机VPN）
+- [VPN 软件评测](https://fanqiangtizi.cc/vpn/review/): 公开本站对网络代理服务与软件评测的实测维度、真实数据标注规范与品牌档案入口。（核心词：VPN软件评测）
+- [VPN 加速器](https://fanqiangtizi.cc/vpn/accelerator/): 区分合规游戏加速器与通用跨境代理加速器，讲清 UDP、NAT 类型与跨境协作优化。（核心词：VPN加速器）
+- [加速器对比](https://fanqiangtizi.cc/vpn/compare/): 提供多维度横向对比矩阵，覆盖线路类型、计费结构、协议栈与品牌组别对照。（核心词：加速器对比）
+- [好用的 VPN](https://fanqiangtizi.cc/vpn/best/): 从“省心度、稳定性、AI 可用性与跨端同步”定义普通用户眼中真正“好用”的网络工具。（核心词：好用的VPN）
+
+### Clash 客户端（https://fanqiangtizi.cc/clash/）
+覆盖桌面端与移动端主流 Clash / Mihomo 系客户端，从官方仓库识别、安全安装、订阅导入、TUN 模式到常见报错修复。
+- [Clash 推荐](https://fanqiangtizi.cc/clash/recommend/): 盘点原版 Clash 删库后当前仍在活跃维护的可靠开源替代客户端。（核心词：Clash推荐）
+- [Clash Verge](https://fanqiangtizi.cc/clash/verge/): Clash Verge Rev 核心功能全解，包含界面导览、内核切换、TUN 服务模式与系统代理管理。（核心词：Clash Verge）
+- [Clash Verge 下载](https://fanqiangtizi.cc/clash/verge-download/): 提供 GitHub 官方 Release 识别方法、各系统安装包后缀说明与完整性校验步骤。（核心词：Clash Verge下载）
+- [Clash Verge 订阅](https://fanqiangtizi.cc/clash/verge-subscribe/): 详解订阅复制、一键导入 URL Scheme、定时更新间隔、流量显示与安全订阅转换。（核心词：Clash Verge订阅）
+- [Clash Meta](https://fanqiangtizi.cc/clash/meta/): 解析 Clash.Meta（现名 Mihomo）内核特性、GeoSite 分流能力及移动端对应客户端。（核心词：Clash Meta）
+- [Clash 使用教程](https://fanqiangtizi.cc/clash/tutorial/): 零基础实战教程体系，手把手完成导入、选节点、测延迟、分流调优与日常维护。（核心词：Clash使用教程）
+- [Clash 故障排查](https://fanqiangtizi.cc/clash/troubleshoot/): 系统整理订阅下载失败、节点全部超时、系统时间误差、TUN 冲突与浏览器报错诊断流程。（核心词：Clash故障排查）
+
+### 资源与情报（https://fanqiangtizi.cc/resources/）
+聚合全站安全与情报文档：免费节点风险提示、机场跑路预警指标、节点连通与流媒体检测工具指南、订阅排错与高频问答。
+- [免费节点](https://fanqiangtizi.cc/resources/free-nodes/): 科普公开免费节点的来源机制、极短生命周期与安全使用禁忌。（核心词：免费节点）
+- [跑路预警](https://fanqiangtizi.cc/resources/scam-alert/): 总结跑路前常见异常信号、促销收割套路以及老品牌核实清单。（核心词：机场跑路预警）
+- [机场 FAQ](https://fanqiangtizi.cc/resources/faq/): 汇总选型、付款、订阅、速度、流媒体与账号风控最高频的 50 个实用问题。（核心词：机场FAQ）
+- [机场风险情报](https://fanqiangtizi.cc/resources/risk-intel/): 发布全站品牌数据审计方法、假专线辨别技巧与行业同质化/链接风险观察。（核心词：机场风险情报）
+- [节点检测](https://fanqiangtizi.cc/resources/node-check/): 教用户自己动手检测节点延迟、单线程/多线程带宽、Netflix/ChatGPT 解锁与 IP 风险值。（核心词：节点检测）
+- [订阅问题](https://fanqiangtizi.cc/resources/subscription-help/): 集中排查机场订阅拉取失败、SSL 证书错误、节点不更新与各客户端格式兼容问题。（核心词：订阅问题）
+- [新手帮助](https://fanqiangtizi.cc/resources/beginner-help/): 为完全零经验的新手提供从购买前准备、软件安装到第一次连上外网的保姆级引导。（核心词：新手帮助）
+
+## 二、全平台代理客户端指南
+
+- [第三方代理客户端总览](https://fanqiangtizi.cc/clients/)
+- [Windows 电脑客户端](https://fanqiangtizi.cc/clients/windows)
+- [Android 安卓客户端](https://fanqiangtizi.cc/clients/android)
+- [iPhone / iPad 客户端](https://fanqiangtizi.cc/clients/ios)
+- [macOS 苹果电脑客户端](https://fanqiangtizi.cc/clients/macos)
+- [Linux 客户端](https://fanqiangtizi.cc/clients/linux)
+- [OpenWrt / 软路由客户端](https://fanqiangtizi.cc/clients/openwrt)
+
+## 三、31 家机场品牌档案与评测索引（100% 评测覆盖）
+
+- [机场品牌数据库总览](https://fanqiangtizi.cc/brands/)
+- [品牌深度评测中心](https://fanqiangtizi.cc/reviews/)
+- [横向对比矩阵中心](https://fanqiangtizi.cc/comparisons/)
+- **光速云**（Guangsuyun｜完整实测+资料｜¥99/年（折约 ¥8.25/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/guangsuyun) · [评测](https://fanqiangtizi.cc/reviews/guangsuyun)
+- **暮光加速**（Twilight / Muguang｜完整资料+非高峰标注｜¥109/年（折约 ¥9.08/月，月付 ¥20 起））：[档案](https://fanqiangtizi.cc/brands/muguang) · [评测](https://fanqiangtizi.cc/reviews/muguang)
+- **飞猫云**（Flycat Cloud｜完整实测+资料｜¥84/年（折 ¥7/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/feimao) · [评测](https://fanqiangtizi.cc/reviews/feimao)
+- **微风网络**（BreezeNet / Weifeng｜完整实测+资料｜¥137/年（折约 ¥11.4/月，月付 ¥27 起））：[档案](https://fanqiangtizi.cc/brands/weifeng) · [评测](https://fanqiangtizi.cc/reviews/weifeng)
+- **大佬云**（Dalaoyun｜精简规格资料｜年付折约 ¥5.6/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/dalaoyun) · [评测](https://fanqiangtizi.cc/reviews/dalaoyun)
+- **星岛梦**（Star Island Dream｜完整实测+资料｜¥96/年（折 ¥8/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/xingdaomeng) · [评测](https://fanqiangtizi.cc/reviews/xingdaomeng)
+- **二猫云**（Ermao Cloud｜完整实测+资料｜¥89/年（折约 ¥7.42/月，月付 ¥20 起））：[档案](https://fanqiangtizi.cc/brands/ermao) · [评测](https://fanqiangtizi.cc/reviews/ermao)
+- **无忧链接**（WorryFree Link｜完整实测+资料｜¥79/年（折约 ¥6.58/月，月付 ¥19 起））：[档案](https://fanqiangtizi.cc/brands/wuyou) · [评测](https://fanqiangtizi.cc/reviews/wuyou)
+- **唯兔云**（Weitu Cloud / V2Yun｜完整实测+资料｜¥79.90/年（折约 ¥6.66/月，月付 ¥14.9 起））：[档案](https://fanqiangtizi.cc/brands/weitu) · [评测](https://fanqiangtizi.cc/reviews/weitu)
+- **Firefly 萤火虫**（Firefly｜完整资料+非高峰标注｜¥96/年（折 ¥8/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/firefly) · [评测](https://fanqiangtizi.cc/reviews/firefly)
+- **宇宙云**（Universe Cloud｜历史待核实｜¥96/年起（月流量待核实））：[档案](https://fanqiangtizi.cc/brands/yuzhou) · [评测](https://fanqiangtizi.cc/reviews/yuzhou)
+- **U1S1**（U1S1｜完整实测+资料｜¥96/年（折 ¥8/月，月付 ¥20 起））：[档案](https://fanqiangtizi.cc/brands/u1s1) · [评测](https://fanqiangtizi.cc/reviews/u1s1)
+- **灵猫网络**（CivetNet / Lingmao｜完整实测+资料｜¥85/年（折约 ¥7.08/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/lingmao) · [评测](https://fanqiangtizi.cc/reviews/lingmao)
+- **极连云**（Jilian Cloud｜完整实测+资料｜¥18/月（100GB/月））：[档案](https://fanqiangtizi.cc/brands/jilian) · [评测](https://fanqiangtizi.cc/reviews/jilian)
+- **光年梯**（Lightyear Ladder｜完整实测+资料｜¥18/月（110GB/月））：[档案](https://fanqiangtizi.cc/brands/guangnian) · [评测](https://fanqiangtizi.cc/reviews/guangnian)
+- **一翻云**（1Fly Cloud｜完整实测+资料｜¥98/年（折约 ¥8.17/月，月付 ¥20 起））：[档案](https://fanqiangtizi.cc/brands/yifan) · [评测](https://fanqiangtizi.cc/reviews/yifan)
+- **SOGO 云**（SOGO Cloud｜完整实测+资料｜¥98/年（折约 ¥8.17/月，月付 ¥25 起））：[档案](https://fanqiangtizi.cc/brands/sogo) · [评测](https://fanqiangtizi.cc/reviews/sogo)
+- **可信云**（Kexin Cloud / Kosing｜完整实测+资料｜¥25/月（150GB/月））：[档案](https://fanqiangtizi.cc/brands/kexin) · [评测](https://fanqiangtizi.cc/reviews/kexin)
+- **速界**（SpeedWorld / Sujie｜完整实测+资料｜¥25/月（150GB/月））：[档案](https://fanqiangtizi.cc/brands/sujie) · [评测](https://fanqiangtizi.cc/reviews/sujie)
+- **闪跃**（FlashLeap / Shanyue｜完整资料+非高峰标注｜¥96/年（折 ¥8/月，月付 ¥24 起））：[档案](https://fanqiangtizi.cc/brands/shanyue) · [评测](https://fanqiangtizi.cc/reviews/shanyue)
+- **全球云**（GlobalCloud / Quanqiu｜完整实测+资料｜¥99/年（折约 ¥8.25/月，月付 ¥20 起））：[档案](https://fanqiangtizi.cc/brands/quanqiu) · [评测](https://fanqiangtizi.cc/reviews/quanqiu)
+- **闪电鼠**（Lightning Mouse｜精简规格资料｜年付折约 ¥5.6/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/shandianshu) · [评测](https://fanqiangtizi.cc/reviews/shandianshu)
+- **云界线**（Cloud Boundary｜精简规格资料｜年付折约 ¥5.6/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/yunjiexian) · [评测](https://fanqiangtizi.cc/reviews/yunjiexian)
+- **榴莲云**（Durian Cloud｜精简规格资料｜年付折约 ¥5.6/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/liulianyun) · [评测](https://fanqiangtizi.cc/reviews/liulianyun)
+- **神行加速**（Shenxing｜精简规格资料｜年付折约 ¥14/月（120GB/月））：[档案](https://fanqiangtizi.cc/brands/shenxing) · [评测](https://fanqiangtizi.cc/reviews/shenxing)
+- **环球梯**（Global Ladder｜精简规格资料｜年付折约 ¥5.6/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/huanqiuti) · [评测](https://fanqiangtizi.cc/reviews/huanqiuti)
+- **隐形人**（Invisible Man｜完整资料+非高峰标注｜¥109/年（折约 ¥9.08/月，月付 ¥24 起））：[档案](https://fanqiangtizi.cc/brands/yinxingren) · [评测](https://fanqiangtizi.cc/reviews/yinxingren)
+- **梯子云**（Ladder Cloud｜精简规格资料｜年付折约 ¥7.4/月（60GB/月））：[档案](https://fanqiangtizi.cc/brands/tiziyun) · [评测](https://fanqiangtizi.cc/reviews/tiziyun)
+- **灵动云**（Lingdong Cloud｜历史待核实｜¥99/年（折约 ¥8.25/月，月付 ¥20 起，历史记录））：[档案](https://fanqiangtizi.cc/brands/lingdong) · [评测](https://fanqiangtizi.cc/reviews/lingdong)
+- **浪网**（WaveNet / Langwang｜历史待核实｜¥119/年（折约 ¥9.92/月，月付 ¥30 起，历史记录））：[档案](https://fanqiangtizi.cc/brands/langwang) · [评测](https://fanqiangtizi.cc/reviews/langwang)
+- **边缘节点 EdgeNova**（EdgeNova｜历史待核实｜¥108/年（45G/月）或限时月付 ¥15（72G/月））：[档案](https://fanqiangtizi.cc/brands/edgenova) · [评测](https://fanqiangtizi.cc/reviews/edgenova)
+
+## 四、站点政策、披露与地图
+
+- [关于本站与评测方法论](https://fanqiangtizi.cc/about)
+- [商业合作与推广链接披露声明](https://fanqiangtizi.cc/disclosure)
+- [隐私政策与免责声明](https://fanqiangtizi.cc/privacy)
+- [Sitemap 站点地图](https://fanqiangtizi.cc/sitemap.xml)
